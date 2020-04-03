@@ -3,20 +3,24 @@
     padding:0px auto;
     
 }
+.tit
+{
+   padding:50px 15px 50px 15px; 
+}
 .row-content
 {
     margin:0px auto;
-    padding:50px 0px 50px 0px;
-    border: 1px solid black;
+    padding:50px 15px 50px 15px;
+    border-bottom: 1px ridge;
     min-height: 400px;
 }
 .footer
 {
-    background-color: aquamarine;
+    background-color:#D1C4E9;
     margin: 0px auto;
     padding: 20px 0px;
 }
-.Jumbotron
+.jumbotron
 {   background:#9575CD;
     padding:70px 30px;
     margin:0px;
@@ -27,4 +31,12 @@
     font-size:80%;
     margin:0px;
     color:#0F0F0F;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+.navbar-dark
+{
+    background-color:#512DA8;
 }
