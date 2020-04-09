@@ -40,3 +40,12 @@ body{
 {
     background-color:#512DA8;
 }
+.tab-content
+{
+    border-bottom:2px solid beige;
+    border-right: 2px solid beige;
+        border-left:  2px solid beige;
+    padding:10px;
+    border-radius:5px;
+
+}
